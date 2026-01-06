@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,8 +178,9 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "4601a20f6fd902f0",
+  "active": "b645bf1e578228e6",
   "lastOpenFiles": [
+    "무제",
     "git",
     "데이터 분석 학습 기록/데이터 분석/0.프로젝트/프로젝트 ) 데이터 분석 프로젝트 - 데이터 수집.md",
     "데이터 분석 학습 기록/데이터 분석/0.프로젝트/1일차 ) 데이터 분석 프로젝트 기획 - 디지털 전환.md",
@@ -216,7 +217,6 @@
     "데이터 분석 학습 기록/항목",
     "데이터 분석.base",
     "데이터 분석 캠프/데이터 분석/Untitled.canvas",
-    "Untitled.canvas",
-    "데이터 분석 학습 기록/데이터 엔지니어링"
+    "Untitled.canvas"
   ]
 }
