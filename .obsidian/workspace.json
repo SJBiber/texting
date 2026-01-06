@@ -11,10 +11,24 @@
             "id": "73a74ea1035061c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -180,6 +194,7 @@
   },
   "active": "73a74ea1035061c9",
   "lastOpenFiles": [
+    "README.md",
     "데이터 분석 학습 기록/데이터 엔지니어링/3.DB/10일차 ) Postgre DB , supabase , RAG , 백터 DB , DBeaver 란 ?.md",
     "데이터 분석 학습 기록/데이터 엔지니어링/3.DB/3.DB.md",
     "데이터 분석 학습 기록/데이터 엔지니어링/1.AI/1.AI.md",
@@ -187,7 +202,6 @@
     "데이터 분석 학습 기록/데이터 엔지니어링/3.DB",
     "데이터 분석 학습 기록/데이터 엔지니어링/1.AI/9일차 ) Antigravity 및 AI 활용 방법.md",
     "데이터 분석 학습 기록/데이터 엔지니어링/데이터 엔지니어링.md",
-    "README.md",
     "무제",
     "git",
     "데이터 분석 학습 기록/데이터 분석/0.프로젝트/프로젝트 ) 데이터 분석 프로젝트 - 데이터 수집.md",
