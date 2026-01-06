@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "d6b1e59c009cf798",
+    "type": "split",
+    "children": [
+      {
+        "id": "5179eb4d714066cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73a74ea1035061c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d6ccd9ee15e3b73",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7400fac4c2ceaa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "609976714c8e8802",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "e1d2134ecf08fb84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "e32abb25891b9878",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73d3a470bc88d156",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d477e184ab7289f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "352443680d812036",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "데이터 분석 학습 기록/데이터 분석/0.프로젝트/1일차 ) 데이터 분석 프로젝트 기획 - 데이터 문해력.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1일차 ) 데이터 분석 프로젝트 기획 - 데이터 문해력 의 백링크"
+            }
+          },
+          {
+            "id": "0a2129d8aed156a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "14dff37454f1c51b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b645bf1e578228e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "4601a20f6fd902f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "4601a20f6fd902f0",
+  "lastOpenFiles": [
+    "git",
+    "데이터 분석 학습 기록/데이터 분석/0.프로젝트/프로젝트 ) 데이터 분석 프로젝트 - 데이터 수집.md",
+    "데이터 분석 학습 기록/데이터 분석/0.프로젝트/1일차 ) 데이터 분석 프로젝트 기획 - 디지털 전환.md",
+    "데이터 분석 학습 기록/데이터 분석/0.프로젝트/1일차 ) 데이터 분석 프로젝트 기획 - 데이터 문해력.md",
+    "무제.base",
+    "데이터 분석 학습 기록/데이터 분석/0.프로젝트/0.프로젝트(데이터 분석).md",
+    "데이터 분석 학습 기록/데이터 엔지니어링/1.AI/9일차 ) 데이터 직군에 대한 이해 및 AI 융합.md",
+    "데이터 분석 학습 기록/데이터 엔지니어링/1.AI/9일차 ) Antigravity 및 AI 활용 방법.md",
+    "데이터 분석 학습 기록/데이터 엔지니어링/0.프로젝트/0.프로젝트(데이터 엔지니어링).md",
+    "데이터 분석 학습 기록/데이터 엔지니어링/1.AI/1.AI.md",
+    "데이터 분석 학습 기록/데이터 엔지니어링/2.자동화/2.자동화.md",
+    "데이터 분석 학습 기록/데이터 분석/2.python/2.python.md",
+    "데이터 분석 캠프/데이터 엔지니어링/무제.md",
+    "데이터 분석 학습 기록/데이터 엔지니어링/0.프로젝트",
+    "데이터 분석 학습 기록/데이터 엔지니어링/2.자동화",
+    "데이터 분석 학습 기록/데이터 엔지니어링/1.AI",
+    "데이터 분석 학습 기록/데이터 분석/1.통계/1. 통계.md",
+    "데이터 분석 캠프/데이터 분석/무제.md",
+    "데이터 분석 학습 기록/데이터 분석/1.통계",
+    "데이터 분석 학습 기록/데이터 분석/0.프로젝트/프로젝트 ) 데이터 분석 프로젝트 기획안 선정.md",
+    "데이터 분석 학습 기록/데이터 분석/0.프로젝트",
+    "데이터 분석 학습 기록/데이터 분석/2.python/1일차 ) python을 활용한 데이터 분석 - 배열, numpy, pandas(1).md",
+    "데이터 분석 학습 기록/데이터 분석/2.python/6일차 ) python을 활용한 데이터 분석 - 데이터 시각화(2).md",
+    "데이터 분석 학습 기록/데이터 분석/2.python/4일차 ) python을 활용한 데이터 분석 - 날짜 시간값 처리 , apply 메서드.md",
+    "데이터 분석 학습 기록/데이터 분석/2.python",
+    "데이터 분석 학습 기록/데이터 엔지니어링/데이터 엔지니어링.md",
+    "데이터 분석 학습 기록/데이터 분석/데이터 분석.md",
+    "데이터 분석 학습 기록/데이터 분석/1.통계/이해가 필요한 데이터 분석 용어 정리 (1).md",
+    "데이터 분석 학습 기록/데이터 분석/1.통계/용어 정리 ) 데이터 분석을 위한 통계관련 값 정리.md",
+    "데이터 분석 학습 기록/데이터 분석/2.python/5일차 ) python을 활용한 데이터 분석 - 데이터 시각화 실습.md",
+    "데이터 분석 학습 기록/데이터 분석/2.python/5일차 ) python을 활용한 데이터 분석 - 데이터 시각화.md",
+    "데이터 분석 학습 기록/데이터 분석/2.python/4일차 ) python을 활용한 데이터 분석 - 결측값 처리.md",
+    "데이터 분석 학습 기록/데이터 분석/2.python/3일차 ) python을 활용한 데이터 분석 - pandas를 이용한 In Out.md",
+    "데이터 분석 학습 기록/항목",
+    "데이터 분석.base",
+    "데이터 분석 캠프/데이터 분석/Untitled.canvas",
+    "Untitled.canvas",
+    "데이터 분석 학습 기록/데이터 엔지니어링"
+  ]
+}
