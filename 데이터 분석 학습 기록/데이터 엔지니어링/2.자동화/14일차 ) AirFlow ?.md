@@ -15,7 +15,7 @@
 
 ## Airflow의 동작 그림
 
-![[Pasted image 20260112172257.png]]
+![[Airflow 참고용 사진.png]]
 - Scheduler : 예약된 시간이 되면 작업을 실행하도록 명령을 내림
 - Airflow UI : 사용자가 DAG 상태를 보고, 로그를 확인하고 , 수동으로 실행할 수 있는 UI 제공
 - Worker : 실제로 작업을 수행하는 일꾼 (스케쥴러가 명형하면 , Worker가 코드를 실행)
