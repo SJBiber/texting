@@ -79,3 +79,4 @@
 | task_1 >> task2                             | task_1 >> task2       | task_1을 먼저 진행 후 task2를 진행                                                               |
 
 
+[[2.자동화]]
